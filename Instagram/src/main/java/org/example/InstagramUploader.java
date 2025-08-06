@@ -13,8 +13,8 @@ import java.time.Duration;
 public class InstagramUploader {
 
     // Instagram credentials and image path to upload
-    private static final String USERNAME = "tester2654";
-    private static final String PASSWORD = "IK12345@";
+    private static final String USERNAME = "";
+    private static final String PASSWORD = "";
     private static final String IMAGE_PATH = "D:\\Instagram\\image6.jpeg";
 
     public static void main(String[] args) {
